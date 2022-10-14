@@ -1,6 +1,11 @@
-# fb-clone.py
-              git clone https://github.com/akashblackhat/fb-clone.py.git
-              ls
-              cd fb-clone.py
-              ls
-              python2 fb-clone.py
+# termoux
+     apt update 
+     apt insall python2
+     apt install git 
+     git clone https://github.com/akashblackhat/fb-clone.py.git
+     ls
+     cd fb-clone.py
+     ls
+     python2 fb-clone.py
+![WhatsApp Image 2022-10-14 at 11 29 00 AM](https://user-images.githubusercontent.com/88341460/195917465-85c9c3ee-a940-4eb0-8a37-0cf8a564b6bc.jpeg)
+    i dont no why my tool is nt work ples help me 
