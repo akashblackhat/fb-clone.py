@@ -1,6 +1,7 @@
 # termoux
      apt update 
-     apt insall python2
+     apt install python2 
+     pip install beautifulsoup4
      apt install git 
      git clone https://github.com/akashblackhat/fb-clone.py.git
      ls
