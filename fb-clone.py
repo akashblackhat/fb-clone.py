@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
 import os, sys, re, time, json, random, requests
 from bs4 import BeautifulSoup as parser
 from concurrent.futures import ThreadPoolExecutor
