@@ -39,9 +39,7 @@ def kontol():
 \x1b[1;94m────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : AKASH BLACK HAT
 \x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Github   : https://github.com/akashblackhat
-\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Facebook : https://shorturl.at/MO019
-\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] YouTub   : TECHNICAL AKASH SKILLS
-\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] whatsapp : +91 8389020949
+
 \x1b[1;94m────────────────────────────────────────────────────""")
 
 
@@ -62,9 +60,7 @@ def jembut():
 \x1b[1;94m────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : AKASH BLACK HAT
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/akashblackhat
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Facebook : https://shorturl.at/MO019
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] YouTube  : TECHNICAL AKASH SKILLS
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] whatsapp : +91 8389020949
+
 \x1b[1;94m────────────────────────────────────────────────────""")
 
 
